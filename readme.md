@@ -2,6 +2,8 @@
 
 <img src="assets/readme-image.jpg" alt="Banner do Projeto">
 
+<p align="center">Acesse em: <a href="https://limacaiquelg.github.io/fullstack-local-turistico/">https://limacaiquelg.github.io/fullstack-local-turistico/</a></p>
+
 <br>
 
 <p align="justify">Este projeto consiste em uma página web desenvolvida utilizando HTML e CSS. Esta página exibe informações turísticas sobre a cidade de Busan, na Coreia do Sul.</p> 
